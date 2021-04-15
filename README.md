@@ -1,3 +1,5 @@
 # COVID19_localisation
 
 TOWARDS UNBIASED COVID-19 LESION LOCALISATION AND SEGMENTATION VIA WEAKLY SUPERVISED LEARNING
+
+Despite tremendous efforts, it is very challenging to generate a robust model to assist in the accurate quantification assessment of COVID-19 on chest CT images. Due to the nature of blurred boundaries, the supervised segmentation methods usually suffer from annotation biases. To support unbiased lesion localisation and to minimise the labeling costs, we propose a data-driven framework supervised by only image-level labels. The framework can explicitly separate potential lesions from original images, with the help of a generative adversarial network and a lesion-specific decoder. Experiments on two COVID-19 datasets demonstrate the effectiveness of the proposed framework and its superior performance to several existing methods.
