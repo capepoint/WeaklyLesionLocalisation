@@ -5,7 +5,6 @@ import os
 
 sys.path.append('./')
 from u_d import *
-from paraser import get_parser
 
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
@@ -48,7 +47,6 @@ def parse_args():
 
 def main():
     args = parse_args()
-    # args = get_parser()
     if args.training_strategies == 'update_u_d':
         trainer = update_u_d.update_u_d(args)
         script_path = './u_d/update_u_d.py'
