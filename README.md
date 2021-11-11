@@ -8,7 +8,7 @@ This repo contains the official Pytorch implementation for [Towards Unbiased COV
 
 ## Framwork 
 
-![Model](/Users/lincolnzjx/Desktop/PCL/WeaklyLesionLocalisation/imgs/model.png)
+![Model](./imgs/model.png)
 
 
 
