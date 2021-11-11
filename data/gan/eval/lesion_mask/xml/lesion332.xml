@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<annotation>
+	<filename>lesion332.png</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>pcl</image>
+		<flickrid>330391518</flickrid>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<segmentation>127.0,334.0,134.0,337.0,142.0,339.0,149.0,342.0,160.0,342.0,172.0,342.0,180.0,341.0,186.0,341.0,191.0,334.0,196.0,327.0,202.0,334.0,205.0,339.0,210.0,346.0,215.0,351.0,216.0,358.0,213.0,363.0,211.0,368.0,206.0,373.0,198.0,381.0,190.0,384.0,182.0,385.0,171.0,384.0,161.0,384.0,154.0,380.0,142.0,379.0,134.0,377.0,126.0,377.0,120.0,373.0,113.0,368.0,109.0,364.0,110.0,353.0,117.0,346.0,122.0,342.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>1</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>1.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+</annotation>

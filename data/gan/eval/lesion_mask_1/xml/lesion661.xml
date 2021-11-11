@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<annotation>
+	<filename>lesion661.png</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>pcl</image>
+		<flickrid>330391518</flickrid>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<segmentation>113.0,307.0,118.0,307.0,123.0,307.0,133.0,311.0,141.0,317.0,146.0,319.0,152.0,319.0,160.0,319.0,166.0,321.0,167.0,328.0,168.0,333.0,162.0,336.0,156.0,335.0,153.0,338.0,153.0,348.0,152.0,358.0,151.0,365.0,146.0,367.0,138.0,364.0,135.0,358.0,130.0,355.0,124.0,351.0,120.0,348.0,117.0,344.0,117.0,338.0,120.0,335.0,123.0,334.0,126.0,329.0,123.0,323.0,121.0,317.0,118.0,312.0,116.0,314.0,113.0,310.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>1</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>1.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+	<object>
+		<name>car</name>
+		<segmentation>228.0,360.0,223.0,355.0,218.0,350.0,212.0,346.0,205.0,347.0,199.0,352.0,197.0,359.0,197.0,364.0,194.0,370.0,192.0,374.0,193.0,380.0,200.0,381.0,209.0,379.0,217.0,375.0,223.0,370.0,227.0,366.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>2</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>2.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+	<object>
+		<name>car</name>
+		<segmentation>315.0,364.0,321.0,368.0,329.0,370.0,334.0,371.0,344.0,372.0,352.0,370.0,359.0,369.0,359.0,366.0,354.0,365.0,353.0,360.0,348.0,361.0,345.0,363.0,343.0,366.0,338.0,366.0,334.0,363.0,329.0,360.0,326.0,354.0,323.0,347.0,319.0,345.0,313.0,347.0,312.0,352.0,312.0,356.0,313.0,360.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>3</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>3.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+</annotation>

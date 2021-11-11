@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<annotation>
+	<filename>lesion234.png</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>pcl</image>
+		<flickrid>330391518</flickrid>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<segmentation>101.0,204.0,101.0,215.0,101.0,223.0,104.0,227.0,109.0,228.0,114.0,228.0,120.0,231.0,129.0,234.0,133.0,234.0,138.0,232.0,144.0,237.0,149.0,237.0,154.0,234.0,161.0,232.0,159.0,227.0,157.0,222.0,156.0,217.0,159.0,216.0,164.0,219.0,170.0,220.0,173.0,216.0,179.0,217.0,181.0,211.0,173.0,208.0,176.0,206.0,172.0,202.0,169.0,200.0,170.0,195.0,170.0,190.0,167.0,188.0,162.0,184.0,158.0,180.0,156.0,174.0,159.0,170.0,155.0,166.0,153.0,161.0,149.0,159.0,144.0,158.0,139.0,160.0,134.0,164.0,129.0,167.0,126.0,171.0,120.0,173.0,116.0,175.0,115.0,178.0,114.0,181.0,111.0,183.0,108.0,186.0,108.0,188.0,110.0,193.0,109.0,197.0,106.0,201.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>1</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>1.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+</annotation>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<annotation>
+	<filename>lesion1851.png</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>pcl</image>
+		<flickrid>330391518</flickrid>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<segmentation>189.0,310.0,185.0,306.0,180.0,304.0,174.0,305.0,170.0,309.0,167.0,315.0,168.0,318.0,172.0,320.0,180.0,321.0,184.0,324.0,187.0,323.0,192.0,317.0,191.0,319.0,191.0,314.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>1</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>1.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+	<object>
+		<name>car</name>
+		<segmentation>346.0,300.0,344.0,297.0,339.0,297.0,333.0,298.0,330.0,300.0,328.0,303.0,328.0,310.0,335.0,317.0,334.0,317.0,340.0,318.0,343.0,320.0,347.0,320.0,349.0,318.0,349.0,315.0,346.0,312.0,345.0,308.0,346.0,304.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>2</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>2.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+</annotation>

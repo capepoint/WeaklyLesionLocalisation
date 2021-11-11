@@ -45,14 +45,16 @@ pip install -r requirements.txt
 
 ## Data
 
-Data is stored in ./data, you can directory download.
+Data is stored in ./data, you can directory download it (~400M).
 
 
 
 ## Training and Evaluation
 
+You can train with following code, which save logs and models to /exp/exp-1.
+
 ```bash
-python train.py -p /path/to/save_model_directory -l 10 -s 0.01 -a 0.01 -g 200 -t 0 -i 15 -b 4 -e 120 --debug
+python train.py -p ./exp/exp-1 -l 10 -s 0.01 -a 0.01 -g 200 -t 0 -i 15 -b 4 -e 120 --debug
 ```
 
 

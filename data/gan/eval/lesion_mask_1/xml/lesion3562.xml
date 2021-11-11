@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<annotation>
+	<filename>lesion3562.png</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>pcl</image>
+		<flickrid>330391518</flickrid>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<segmentation>234.0,294.0,229.0,297.0,225.0,301.0,223.0,307.0,220.0,312.0,215.0,315.0,210.0,320.0,205.0,328.0,200.0,337.0,197.0,347.0,201.0,354.0,206.0,356.0,214.0,353.0,220.0,348.0,221.0,341.0,225.0,338.0,227.0,335.0,230.0,331.0,226.0,327.0,228.0,323.0,231.0,319.0,232.0,313.0,232.0,308.0,233.0,302.0,234.0,297.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>1</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>1.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+	<object>
+		<name>car</name>
+		<segmentation>192.0,270.0,186.0,268.0,175.0,269.0,170.0,278.0,172.0,288.0,176.0,298.0,183.0,302.0,195.0,301.0,202.0,295.0,206.0,288.0,206.0,281.0,201.0,274.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>2</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>2.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+	<object>
+		<name>car</name>
+		<segmentation>291.0,232.0,299.0,230.0,309.0,231.0,318.0,233.0,326.0,239.0,333.0,246.0,338.0,258.0,338.0,268.0,334.0,277.0,328.0,280.0,321.0,281.0,308.0,280.0,296.0,279.0,302.0,274.0,308.0,271.0,310.0,267.0,313.0,263.0,316.0,260.0,315.0,253.0,312.0,250.0,309.0,247.0,304.0,245.0,300.0,243.0,296.0,240.0,291.0,234.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>3</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>3.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+</annotation>

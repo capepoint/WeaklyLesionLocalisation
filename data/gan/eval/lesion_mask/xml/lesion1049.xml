@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<annotation>
+	<filename>lesion1049.png</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>pcl</image>
+		<flickrid>330391518</flickrid>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<segmentation>137.0,260.0,133.0,258.0,127.0,258.0,123.0,259.0,121.0,265.0,121.0,271.0,123.0,277.0,129.0,279.0,128.0,285.0,133.0,286.0,140.0,283.0,145.0,277.0,145.0,271.0,142.0,265.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>1</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>1.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+	<object>
+		<name>car</name>
+		<segmentation>404.0,214.0,387.0,203.0,375.0,193.0,362.0,187.0,348.0,183.0,337.0,185.0,328.0,191.0,318.0,206.0,322.0,206.0,327.0,199.0,333.0,196.0,343.0,203.0,349.0,209.0,359.0,217.0,370.0,219.0,378.0,221.0,382.0,227.0,387.0,227.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>2</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>2.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+	<object>
+		<name>car</name>
+		<segmentation>312.0,291.0,318.0,288.0,327.0,283.0,335.0,276.0,339.0,270.0,341.0,264.0,340.0,257.0,334.0,254.0,331.0,259.0,328.0,266.0,322.0,269.0,315.0,267.0,311.0,262.0,305.0,260.0,301.0,264.0,306.0,269.0,305.0,275.0,299.0,278.0,303.0,281.0,308.0,281.0,310.0,284.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>3</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>3.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+</annotation>

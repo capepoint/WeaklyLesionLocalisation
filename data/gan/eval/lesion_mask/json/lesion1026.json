@@ -1,0 +1,1 @@
+{"image_name":"lesion1026.png","image_height":512,"camera_gps":"","bbox":[{"score":1.0,"frontview":true,"other":{"region_attributes":{"id":1.0}},"segmentation":"370.0,253.0,377.0,254.0,382.0,252.0,380.0,242.0,382.0,233.0,379.0,229.0,373.0,231.0,370.0,238.0,372.0,243.0,370.0,248.0","id":"1","blurred":false,"goodIllumination":true}],"camera_id":"","image_width":512}

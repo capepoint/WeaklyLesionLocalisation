@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<annotation>
+	<filename>lesion654.png</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>pcl</image>
+		<flickrid>330391518</flickrid>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<segmentation>135.0,370.0,141.0,375.0,151.0,381.0,162.0,387.0,174.0,390.0,181.0,391.0,186.0,387.0,187.0,381.0,189.0,374.0,191.0,367.0,192.0,360.0,193.0,355.0,196.0,351.0,198.0,347.0,205.0,344.0,201.0,340.0,204.0,335.0,200.0,330.0,194.0,327.0,191.0,328.0,188.0,331.0,188.0,335.0,187.0,341.0,184.0,347.0,183.0,351.0,178.0,350.0,175.0,346.0,171.0,341.0,165.0,341.0,162.0,345.0,159.0,348.0,154.0,347.0,148.0,347.0,145.0,350.0,140.0,353.0,137.0,354.0,136.0,359.0,136.0,364.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>1</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>1.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+	<object>
+		<name>car</name>
+		<segmentation>108.0,256.0,104.0,263.0,98.0,270.0,94.0,279.0,93.0,284.0,93.0,291.0,94.0,297.0,95.0,304.0,97.0,314.0,99.0,326.0,104.0,336.0,109.0,343.0,115.0,348.0,119.0,353.0,124.0,346.0,129.0,341.0,135.0,336.0,139.0,334.0,146.0,337.0,155.0,337.0,161.0,334.0,167.0,329.0,175.0,325.0,180.0,323.0,179.0,320.0,182.0,316.0,185.0,313.0,187.0,311.0,184.0,305.0,181.0,305.0,179.0,306.0,177.0,308.0,175.0,307.0,177.0,302.0,179.0,301.0,183.0,302.0,185.0,299.0,187.0,296.0,192.0,293.0,194.0,290.0,195.0,285.0,197.0,282.0,195.0,277.0,193.0,272.0,187.0,271.0,181.0,271.0,175.0,273.0,173.0,265.0,170.0,257.0,163.0,258.0,158.0,261.0,152.0,263.0,147.0,266.0,140.0,271.0,132.0,272.0,126.0,269.0,123.0,264.0,120.0,259.0,115.0,257.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>2</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>2.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+	<object>
+		<name>car</name>
+		<segmentation>324.0,271.0,333.0,270.0,339.0,269.0,342.0,274.0,342.0,282.0,336.0,288.0,328.0,289.0,320.0,290.0,315.0,289.0,314.0,284.0,320.0,275.0,319.0,276.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>3</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>3.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+</annotation>

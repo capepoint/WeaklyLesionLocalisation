@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<annotation>
+	<filename>lesion1391.png</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>pcl</image>
+		<flickrid>330391518</flickrid>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<segmentation>161.0,331.0,153.0,328.0,148.0,327.0,148.0,334.0,148.0,340.0,139.0,344.0,130.0,343.0,124.0,342.0,129.0,353.0,134.0,362.0,140.0,371.0,152.0,382.0,163.0,390.0,171.0,395.0,182.0,398.0,193.0,398.0,203.0,400.0,212.0,396.0,220.0,390.0,227.0,384.0,231.0,378.0,232.0,372.0,229.0,366.0,219.0,366.0,213.0,364.0,210.0,352.0,210.0,344.0,217.0,336.0,217.0,331.0,209.0,329.0,209.0,329.0,205.0,325.0,199.0,323.0,193.0,319.0,189.0,318.0,194.0,312.0,194.0,305.0,186.0,295.0,181.0,297.0,179.0,302.0,184.0,311.0,181.0,316.0,178.0,322.0,176.0,328.0,173.0,332.0,167.0,330.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>1</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>1.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+	<object>
+		<name>car</name>
+		<segmentation>254.0,329.0,263.0,331.0,271.0,337.0,276.0,345.0,279.0,356.0,284.0,372.0,290.0,381.0,295.0,384.0,305.0,386.0,312.0,390.0,323.0,391.0,334.0,390.0,344.0,387.0,358.0,379.0,367.0,371.0,375.0,358.0,379.0,350.0,384.0,342.0,385.0,337.0,377.0,333.0,361.0,330.0,341.0,327.0,334.0,316.0,328.0,305.0,323.0,297.0,326.0,286.0,325.0,278.0,326.0,269.0,323.0,264.0,319.0,260.0,313.0,263.0,310.0,272.0,306.0,280.0,307.0,287.0,308.0,295.0,308.0,300.0,313.0,307.0,312.0,317.0,311.0,320.0,302.0,320.0,298.0,317.0,293.0,312.0,291.0,315.0,285.0,316.0,274.0,317.0,268.0,320.0,261.0,321.0,256.0,322.0,254.0,325.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>2</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>2.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+</annotation>

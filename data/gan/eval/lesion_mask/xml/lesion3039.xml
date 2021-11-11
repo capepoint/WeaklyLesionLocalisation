@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<annotation>
+	<filename>lesion3039.png</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>pcl</image>
+		<flickrid>330391518</flickrid>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<segmentation>117.0,284.0,125.0,281.0,135.0,283.0,142.0,287.0,145.0,293.0,153.0,292.0,161.0,296.0,168.0,302.0,175.0,305.0,185.0,309.0,189.0,316.0,190.0,324.0,188.0,331.0,190.0,340.0,195.0,346.0,203.0,346.0,215.0,344.0,220.0,350.0,221.0,359.0,216.0,366.0,205.0,371.0,191.0,373.0,179.0,372.0,167.0,369.0,158.0,366.0,148.0,358.0,140.0,350.0,133.0,339.0,127.0,330.0,121.0,313.0,117.0,301.0,115.0,290.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>1</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>1.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+	<object>
+		<name>car</name>
+		<segmentation>175.0,294.0,180.0,298.0,187.0,296.0,197.0,293.0,197.0,301.0,202.0,307.0,209.0,307.0,213.0,299.0,213.0,290.0,210.0,284.0,206.0,279.0,200.0,277.0,195.0,281.0,186.0,283.0,182.0,284.0,178.0,287.0,175.0,292.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>2</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>2.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+	<object>
+		<name>car</name>
+		<segmentation>223.0,307.0,217.0,308.0,210.0,311.0,208.0,315.0,211.0,321.0,218.0,324.0,225.0,325.0,233.0,324.0,233.0,320.0,226.0,318.0,223.0,315.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>3</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>3.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+</annotation>

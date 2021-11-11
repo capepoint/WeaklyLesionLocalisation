@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<annotation>
+	<filename>lesion3610.png</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>pcl</image>
+		<flickrid>330391518</flickrid>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<segmentation>382.0,253.0,380.0,249.0,377.0,246.0,371.0,245.0,366.0,246.0,362.0,251.0,361.0,257.0,367.0,261.0,375.0,261.0,380.0,259.0,382.0,256.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>1</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>1.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+	<object>
+		<name>car</name>
+		<segmentation>120.0,347.0,114.0,344.0,110.0,339.0,106.0,335.0,101.0,333.0,98.0,335.0,94.0,340.0,89.0,344.0,83.0,348.0,83.0,353.0,84.0,361.0,86.0,365.0,91.0,365.0,97.0,362.0,108.0,360.0,117.0,358.0,122.0,358.0,122.0,352.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>2</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>2.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+	<object>
+		<name>car</name>
+		<segmentation>163.0,394.0,168.0,398.0,169.0,405.0,169.0,411.0,173.0,418.0,180.0,420.0,185.0,418.0,187.0,414.0,187.0,404.0,190.0,398.0,194.0,393.0,199.0,389.0,205.0,383.0,202.0,379.0,197.0,375.0,195.0,370.0,193.0,364.0,187.0,363.0,180.0,365.0,173.0,368.0,170.0,373.0,164.0,384.0,165.0,382.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>3</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>3.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+</annotation>

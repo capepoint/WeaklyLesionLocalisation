@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<annotation>
+	<filename>lesion1050.png</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>pcl</image>
+		<flickrid>330391518</flickrid>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<segmentation>136.0,260.0,130.0,260.0,125.0,260.0,123.0,265.0,122.0,271.0,124.0,276.0,130.0,274.0,137.0,270.0,140.0,266.0,138.0,261.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>1</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>1.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+	<object>
+		<name>car</name>
+		<segmentation>352.0,246.0,359.0,242.0,371.0,240.0,384.0,235.0,391.0,227.0,387.0,223.0,384.0,219.0,378.0,221.0,374.0,218.0,370.0,213.0,363.0,213.0,355.0,213.0,351.0,213.0,346.0,218.0,341.0,224.0,339.0,235.0,336.0,233.0,335.0,224.0,336.0,216.0,341.0,208.0,348.0,202.0,359.0,200.0,367.0,205.0,375.0,207.0,376.0,203.0,372.0,194.0,369.0,184.0,362.0,180.0,355.0,179.0,351.0,184.0,348.0,189.0,348.0,191.0,338.0,197.0,330.0,201.0,323.0,208.0,319.0,215.0,316.0,222.0,324.0,217.0,325.0,223.0,325.0,235.0,326.0,241.0,329.0,246.0,326.0,251.0,321.0,256.0,323.0,262.0,322.0,267.0,317.0,264.0,312.0,260.0,306.0,258.0,302.0,258.0,296.0,260.0,301.0,266.0,302.0,272.0,298.0,273.0,290.0,275.0,294.0,279.0,298.0,283.0,303.0,286.0,307.0,293.0,313.0,293.0,319.0,287.0,328.0,279.0,335.0,278.0,341.0,276.0,338.0,270.0,334.0,264.0,337.0,260.0,345.0,257.0,350.0,255.0,350.0,249.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>2</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>2.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+</annotation>

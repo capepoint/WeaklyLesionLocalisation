@@ -1,0 +1,1 @@
+{"image_name":"lesion1586.png","image_height":512,"camera_gps":"","bbox":[{"score":1.0,"frontview":true,"other":{"region_attributes":{"id":1.0,"type":"car"}},"category_id":"car","segmentation":"364.0,280.0,360.0,278.0,354.0,279.0,351.0,283.0,354.0,288.0,359.0,289.0,363.0,287.0,364.0,284.0","id":"1","blurred":false,"goodIllumination":true}],"camera_id":"","image_width":512}

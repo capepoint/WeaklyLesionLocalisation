@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<annotation>
+	<filename>lesion4854.png</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>pcl</image>
+		<flickrid>330391518</flickrid>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<segmentation>175.0,281.0,176.0,275.0,173.0,270.0,168.0,267.0,162.0,267.0,159.0,269.0,159.0,274.0,154.0,274.0,149.0,274.0,143.0,283.0,144.0,288.0,147.0,291.0,150.0,298.0,157.0,300.0,164.0,299.0,169.0,297.0,171.0,289.0,173.0,284.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>1</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>1.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+	<object>
+		<name>car</name>
+		<segmentation>150.0,309.0,145.0,304.0,140.0,303.0,135.0,305.0,134.0,309.0,135.0,316.0,140.0,318.0,145.0,317.0,150.0,314.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>2</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>2.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+	<object>
+		<name>car</name>
+		<segmentation>316.0,198.0,322.0,199.0,332.0,199.0,341.0,198.0,350.0,195.0,350.0,191.0,355.0,187.0,351.0,186.0,345.0,187.0,337.0,187.0,330.0,186.0,325.0,183.0,319.0,181.0,322.0,178.0,317.0,175.0,313.0,173.0,312.0,170.0,308.0,171.0,302.0,167.0,293.0,163.0,292.0,166.0,296.0,168.0,298.0,170.0,302.0,171.0,306.0,173.0,309.0,178.0,315.0,181.0,316.0,189.0,320.0,192.0,320.0,194.0,316.0,196.0,314.0,197.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>3</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>3.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+</annotation>

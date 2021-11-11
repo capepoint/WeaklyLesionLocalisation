@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<annotation>
+	<filename>lesion4142.png</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>pcl</image>
+		<flickrid>330391518</flickrid>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<segmentation>154.0,384.0,156.0,390.0,159.0,396.0,164.0,401.0,169.0,405.0,173.0,407.0,179.0,408.0,188.0,409.0,194.0,409.0,200.0,410.0,204.0,409.0,210.0,407.0,216.0,404.0,220.0,399.0,223.0,395.0,224.0,390.0,224.0,386.0,220.0,381.0,216.0,380.0,212.0,377.0,209.0,373.0,205.0,371.0,200.0,372.0,192.0,372.0,186.0,372.0,179.0,376.0,172.0,379.0,167.0,378.0,161.0,381.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>1</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>1.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+	<object>
+		<name>car</name>
+		<segmentation>269.0,368.0,272.0,374.0,274.0,386.0,279.0,395.0,283.0,402.0,289.0,408.0,294.0,411.0,304.0,414.0,315.0,413.0,322.0,412.0,326.0,407.0,333.0,402.0,337.0,396.0,341.0,390.0,345.0,384.0,347.0,377.0,345.0,370.0,338.0,366.0,328.0,363.0,318.0,360.0,303.0,360.0,295.0,360.0,284.0,357.0,277.0,353.0,269.0,350.0,261.0,350.0,257.0,349.0,257.0,354.0,261.0,359.0,265.0,362.0,268.0,364.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>2</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>2.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+	<object>
+		<name>car</name>
+		<segmentation>263.0,347.0,268.0,347.0,272.0,345.0,274.0,341.0,278.0,340.0,280.0,336.0,280.0,332.0,285.0,326.0,285.0,321.0,283.0,315.0,277.0,311.0,272.0,310.0,268.0,311.0,264.0,319.0,263.0,329.0,263.0,336.0,263.0,342.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>3</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>3.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+</annotation>

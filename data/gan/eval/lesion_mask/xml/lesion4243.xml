@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<annotation>
+	<filename>lesion4243.png</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>pcl</image>
+		<flickrid>330391518</flickrid>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<segmentation>323.0,187.0,306.0,188.0,303.0,190.0,301.0,193.0,301.0,198.0,303.0,202.0,306.0,205.0,306.0,209.0,303.0,213.0,301.0,218.0,301.0,222.0,301.0,228.0,298.0,234.0,300.0,237.0,304.0,237.0,307.0,240.0,309.0,245.0,312.0,243.0,313.0,239.0,314.0,232.0,316.0,227.0,312.0,221.0,313.0,216.0,318.0,210.0,324.0,202.0,325.0,197.0,325.0,191.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>1</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>1.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+	<object>
+		<name>car</name>
+		<segmentation>399.0,351.0,394.0,347.0,384.0,345.0,377.0,343.0,369.0,345.0,364.0,350.0,363.0,358.0,366.0,364.0,376.0,369.0,376.0,375.0,379.0,379.0,383.0,375.0,386.0,369.0,391.0,363.0,393.0,357.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>2</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>2.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+	<object>
+		<name>car</name>
+		<segmentation>352.0,400.0,350.0,394.0,354.0,388.0,350.0,383.0,342.0,380.0,339.0,382.0,339.0,389.0,333.0,394.0,328.0,394.0,322.0,398.0,315.0,401.0,304.0,399.0,300.0,396.0,296.0,393.0,291.0,397.0,285.0,399.0,285.0,403.0,291.0,406.0,295.0,411.0,300.0,413.0,308.0,414.0,317.0,416.0,328.0,415.0,337.0,412.0,345.0,408.0,351.0,404.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>3</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>3.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+</annotation>

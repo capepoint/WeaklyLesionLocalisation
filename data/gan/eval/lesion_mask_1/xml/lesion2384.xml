@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<annotation>
+	<filename>lesion2384.png</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation>PASCAL VOC2007</annotation>
+		<image>pcl</image>
+		<flickrid>330391518</flickrid>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<segmentation>176.0,317.0,173.0,314.0,167.0,314.0,162.0,318.0,159.0,325.0,159.0,331.0,161.0,337.0,165.0,342.0,172.0,342.0,178.0,338.0,182.0,334.0,184.0,328.0,184.0,323.0,180.0,320.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>1</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>1.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+	<object>
+		<name>car</name>
+		<segmentation>159.0,179.0,159.0,183.0,157.0,188.0,158.0,192.0,162.0,193.0,172.0,193.0,181.0,193.0,183.0,191.0,177.0,189.0,169.0,189.0,164.0,184.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>2</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>2.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+	<object>
+		<name>car</name>
+		<segmentation>317.0,139.0,311.0,143.0,306.0,149.0,308.0,154.0,312.0,155.0,312.0,161.0,320.0,169.0,326.0,178.0,329.0,188.0,332.0,198.0,332.0,211.0,328.0,220.0,321.0,226.0,312.0,230.0,318.0,234.0,328.0,231.0,336.0,224.0,342.0,215.0,346.0,206.0,341.0,194.0,335.0,182.0,329.0,172.0,324.0,165.0,315.0,157.0,319.0,155.0,329.0,153.0,336.0,151.0,328.0,148.0,322.0,148.0,316.0,148.0</segmentation>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<id>3</id>
+		<blurred>false</blurred>
+		<goodIllumination>true</goodIllumination>
+		<frontview>true</frontview>
+		<other>
+			<region_attributes>
+				<id>3.0</id>
+				<type>car</type>
+			</region_attributes>
+		</other>
+	</object>
+</annotation>
